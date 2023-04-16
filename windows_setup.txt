@@ -1,0 +1,14 @@
+# coding
+miniconda，matlab，
+Github desktop，Pycharm/dataspell，
+SPSS/JASP
+
+# browsers
+Chrome，dege，tor
+# 魔法上网
+V2ray，geph(迷雾通)，F5
+# Communication
+wechat，TIM，teams
+腾讯会议，zoom
+# Handy tools
+scnrec # screen recorder
