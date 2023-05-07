@@ -1,1 +1,3 @@
 # to be finished
+
+Disable safe boot when using nvidia on Fedora.
