@@ -11,6 +11,8 @@ git config --global user.email YOUR_EMAIL
 # install anaconda
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 bash Miniconda3-latest-Linux-x86_64.sh
+## follow the instruction and allow the conda init
+exec bash # restart the terminal to load the newly installed conda
 ## create a new environment
 conda create -n NAME python=3.10 ipykernel
 conda activate name
